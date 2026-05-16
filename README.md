@@ -71,12 +71,6 @@ This notebook focuses on removing outliers from the training dataset to improve 
 * Applying filtering techniques
 * Creating a cleaned training dataset
 
-### Benefits
-
-* Better model generalization
-* Improved prediction accuracy
-* Reduced overfitting risk
-
 ---
 
 ## 3. Test Data Removing Outlier
@@ -88,12 +82,6 @@ This notebook focuses on removing outliers from the training dataset to improve 
 ### Description
 
 This notebook demonstrates the preprocessing and outlier handling process on testing datasets.
-
-### Features
-
-* Detection of abnormal values in test data
-* Consistent preprocessing pipeline
-* Maintaining data quality for evaluation
 
 ### Workflow
 
@@ -163,24 +151,6 @@ Train-Test Split
 Machine Learning Ready Dataset
 ```
 
----
-
-# Installation
-```
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
----
-
-# How to Run
-
-1. Open Jupyter Notebook or JupyterLab
-2. Navigate to the repository folder
-3. Open any notebook file
-4. Run cells sequentially
-
----
-
 # Learning Outcomes
 
 By working on these notebooks, you will learn:
@@ -204,16 +174,6 @@ These preprocessing techniques are widely used in:
 * Financial Data Analysis
 * Healthcare Data Processing
 * Business Intelligence
-
----
-
-# Future Improvements
-
-* Add advanced outlier detection methods
-* Implement automated preprocessing pipelines
-* Add feature scaling techniques
-* Include model training examples
-* Add visualization dashboards
 
 ---
 
